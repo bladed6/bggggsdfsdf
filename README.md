@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 <head>
 <link href='https://fonts.googleapis.com/css?family=Righteous' rel='stylesheet'>
@@ -8,4 +9,7 @@ body {
 </style>
 </head>
 <body>
-    <h1>OnionZone</h1>
+
+<h1>OnionZone</h1>
+
+</html>
