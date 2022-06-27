@@ -65,7 +65,7 @@
             <div class="mt-2 text-center text-monospace">
                 
                 <a href="link_here_pls" style="color:#f5f5f5; text-decoration:none">
-                    Name
+                    Onion
                 </a>
                 
             </div>
